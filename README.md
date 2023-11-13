@@ -1,4 +1,4 @@
-![Hussnain Raza (3)](https://user-images.githubusercontent.com/117994146/206842603-10402e8a-1559-400c-9196-da9a900a2bc4.png)
+![Blue Geometric Technology LinkedIn Banner](https://github.com/Hussnain-codes/Hussnain-codes/assets/117994146/2c94db6a-dcaf-4513-b87f-faee54c5c0f2)
 
 👋 Hi there! I am a full-stack developer with experience in both ReactJS and Laravel.
 
