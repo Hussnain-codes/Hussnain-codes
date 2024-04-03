@@ -1,15 +1,33 @@
-![Blue Geometric Technology LinkedIn Banner](https://github.com/Hussnain-codes/Hussnain-codes/assets/117994146/2c94db6a-dcaf-4513-b87f-faee54c5c0f2)
+<h1 align="left">Hey 👋 What's up?</h1>
 
-👋 Hi there! I am a full-stack developer with experience in both ReactJS and Laravel.
+###
 
-ReactJS is a popular JavaScript library for building user interfaces, and I have experience using it to create interactive and dynamic web applications. I am familiar with the latest features and best practices for using React, including Hooks, the Context API, and optimizing performance with memoization and the React DevTools.
+<p align="left">My name is Hussnain and I'm a Web App developer, from Pakistan</p>
 
-I also have experience with Laravel, a powerful PHP framework for building web applications. I am skilled at implementing Laravel's MVC architecture, working with Eloquent ORM, and using Laravel's built-in tools for routing, authentication, and more.
+###
 
-In my projects, I strive to write clean, maintainable code and follow best practices for security and scalability. I am always learning and staying up to date with the latest technologies, and I am excited to bring my skills and knowledge to new challenges.
-- 📫 Email: hussnainraza23021993@gmail.com
+<h2 align="left">About me</h2>
 
-<!---
-Hussnain-codes/Hussnain-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<p align="left">✨ Creating bugs since 2013<br>📚 I'm currently learning Rust<br>🎯 Goals: Create Products that solve problem</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+</div>
+
+###
